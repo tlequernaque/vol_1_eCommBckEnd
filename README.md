@@ -6,14 +6,12 @@ Object-Relational Mapping (ORM): E-Commerce Back End
 
 
 ## Description
-This is a MySQL database and application backend built for an e-commerce website. It was built using MySQL2, Express, Sequelize and dotenv.  
-This project focused on routes and making changes to a MySQL database using POST, PUT, and DELETE requests, an e-commerce store would have a very similar backend structure.
-
+This is a MySQL database and application backend built for an e-commerce website. This application was built using MySQL2, Express, Sequelize, and dotenv.  
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
+- [Link](#link)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [License](#license)
@@ -22,8 +20,8 @@ This project focused on routes and making changes to a MySQL database using POST
 - [Contact / Questions](#contact--questions)
 
 ## Installation
-Clone the repo down onto your local machine. Open the project and make sure your terminal is in the project folder.  
-Run 'npm i' in the CLI to ensure you have all the necessary packages installed. You also have the option of running an 'npm init' to personalize your project. 
+Clone the repo down onto your local machine.  
+Run 'npm i' in the CLI to ensure you have all the necessary packages installed. 
 You will also need to have MySQL already installed on your local machine.  
 Log in to MySQL by using the command: 'mysql -u root -p'
 When prompted, enter your password for MySQL. 
@@ -35,15 +33,12 @@ Finally, run 'npm run seed' to seed the database with default data.
 Run 'npm start' which will sync the database and start the server.
 
 
-## Demo
-Live URL: <a href="deployed link">Deployment Link</a>
-
-<!-- in the parentheses is just the relative path to the screenshot-->
-![alt text](assets/images/screenshot.png)
+## Link
+[Click Here](https://drive.google.com/file/d/13KadY20PfFWXU9hjYRmsd25BQ21Qvz5k/view) to go to the video link.
 
 
 # Screenshots
-
+![image](./assets/insomnia.png)
 
 ## Technologies
 JavaScript, Node.JS, Express.JS, MySQL, Sequelize, dotnev.  
@@ -60,9 +55,9 @@ If you should find any issues, submit a issue with a detailed explanation on how
 
 
 ## Credits
-Christina Hall and Terry Lequernaque. 
+Christina Hall and Blair Millet. 
 
 
 ## Contact / Questions
-  If you liked this project and want to see more, feel free to check out my other repos [here](https://github.com/blairrrrwho).  
-  For any questions or inquiries, you can reach me at blair10324@gmail.com for further information.
+  If you liked this project and want to see more, feel free to check out my other repos [here](https://github.com/tlequernaque).  
+  For any questions or inquiries, you can reach me at t.lequernaque@yahoo.com for further information.
